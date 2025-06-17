@@ -10,7 +10,7 @@
 ### 🔧 Tech Stack
 <p align="center">
   <img src="https://reactnative.dev/img/tiny_logo.png">
-  <img src="https://cdnlogo.com/logos/j/44/javascript.svg" width="80px">
+  <img src="https://cdnlogo.com/logos/j/44/javascript.svg" width=70px">
   <img src="">
   <!-- add more icons -->
 </p>
