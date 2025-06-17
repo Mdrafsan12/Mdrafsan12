@@ -28,7 +28,6 @@
 ### 📊 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mdrafsan12" alt="Stats" />
-<img src="https://github-contribution-stats.snake.svg" alt="Contribution Snake" />
 </div>
 
 
