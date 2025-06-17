@@ -1,16 +1,31 @@
-#Hi there 👋
+<div align="center">
+  <h1>👋 Hi, I’m [Name]</h1>
+  <p>A Front‑End Developer passionate about React, TypeScript & design systems</p>
+</div>
 
+---
 
-**Mdrafsan12/Mdrafsan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech Stack
+<p align="center">
+  <img src="...react.svg" alt="React" width="40"/>
+  <img src="...typescript.svg" alt="TypeScript" width="40"/>
+  <!-- add more icons -->
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🚀 Featured Projects
+- **Project A** – React + Tailwind; built responsive UI component library.
+- **Project B** – Vue + GraphQL; dashboard with real-time data.
+
+*(pin these repos in GitHub)*
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURNAME" alt="Stats" />
+<img src="https://github-contribution-stats.snake.svg" alt="Contribution Snake" />
+</div>
+
 
