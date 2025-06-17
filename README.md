@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 <div align="center">
   <h1>👋 Hi, I’m [Name]</h1>
   <p>A Front‑End Developer passionate about React, TypeScript & design systems</p>
@@ -7,8 +9,8 @@
 
 ### 🔧 Tech Stack
 <p align="center">
-  <img src="...react.svg" alt="React" width="40"/>
-  <img src="...typescript.svg" alt="TypeScript" width="40"/>
+  <i class="fa-brands fa-react"></i>
+  <i class="fa-brands fa-bootstrap"></i>
   <!-- add more icons -->
 </p>
 
