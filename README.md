@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://reactnative.dev/img/tiny_logo.png">
   <img src="https://cdnlogo.com/logos/j/44/javascript.svg" width="65px">
-  <img src="">
+
   <!-- add more icons -->
 </p>
 
